@@ -72,3 +72,8 @@
 .thumb-wrapper .active {
   border: 2px solid blue; /* Example styling */
 }
+/* .slick-track {
+  border: 5px solid red;
+  width: 100%;
+  display: none;
+} */
